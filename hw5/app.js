@@ -40,14 +40,3 @@ const getTimeClosure = () =>{
 }
 
 const getTime = getTimeClosure();
-
-// --- Task 4
-
-const timer = (time) => {
-    let time = 0;
-    return () =>{
-
-    }
-}
-
-const counter = timer();
